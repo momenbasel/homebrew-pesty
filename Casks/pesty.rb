@@ -1,6 +1,6 @@
 cask "pesty" do
-  version "1.0.0"
-  sha256 "b51032823bbc51a584ff21fd19748fcfa035d3400c58d670c9eff1af8fdd76dc"
+  version "1.1.0"
+  sha256 "ce9442af6a57585908b18edadfc2809812076168e1f82fd8a0f855b036ec0192"
 
   url "https://github.com/momenbasel/pesty/releases/download/v#{version}/Pesty-#{version}.dmg"
   name "Pesty"
